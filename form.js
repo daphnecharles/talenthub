@@ -91,7 +91,7 @@ $(document).ready(function() {
  //AJAX CALL TO GET FORM VALUES SAVED IN JSON FILE
  $.ajax({
    method: "GET",
-   url: "courses.json"
+   url: "fakeData.json"
   })
   .done(function(data) {
    console.log('GET Success', data);
@@ -114,7 +114,7 @@ for (var i = data.length; i--;) {
 //      	removeOldCourses(oldCourseId);
      }
     }
-console.log("There are " + count + " old courses in the courses.json file");
+console.log("There are " + count + " old courses in the fakeData.json file");
 
    // AJAX CALL TO POST ID OF OLD COURSES TO BE REMOVED FROM COURSES.JSON BY DELETE.PHP
 //    function removeOldCourses(oldCourseId) {
