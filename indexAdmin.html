@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+	
+	<head>
+		<meta charset="UTF-8">
+			<meta http-equiv="X-UA-Compatible" content="IE=10" />
+			<title>Instructor Led Courses</title>
+			<!--FAVICON-->
+			<link rel="shortcut icon" href="https://www.regeneron.com/sites/default/files/favicons.png" type="image/png"/>
+			<!--Bootstrap CSS-->
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous"/>
+			<!--JQUERY UI CSS-->
+			<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"/>
+			<!--DATA TABLES CSS-->
+			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.15/css/dataTables.bootstrap4.min.css" integrity="sha256-E3deanBfvgdRLx08kygPFL25yEHJFsnzqgUEr7EKc+k=" crossorigin="anonymous"/>
+			<!--JQUERY TIMEPICKER CSS-->
+			<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.css"/>
+			<!--FONT AWESOME CSS-->
+			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous"/>
+			<!--CUSTOM CSS-->
+			<link rel="stylesheet" href="sched.css"/>
+		</head>
+		
+		<body>
+		
+			<div class="container-fluid">
+			
+				<!--LOGO-->
+				<div class="row" id="logo">
+					<div class="col">
+						<img src="images/TalentHublogo.png" class="img-fluid mx-auto d-block" id="logoImage" alt="TalentHub" width="250">
+						</div>
+					</div>
+					
+					<!--MENU-->
+					<div class="row">
+						<div class="col">
+							<ul class="nav nav-pills nav-justified rubine">
+								<li class="nav-item ">
+									<a class="nav-link active " data-toggle="tab" href="#home">Home</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link"  data-toggle="tab" href="#br">Basking Ridge</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" data-toggle="tab" href="#du">Dublin</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" data-toggle="tab" href="#rh">Raheen</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" data-toggle="tab" href="#re">Rensselaer</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link"  data-toggle="tab" href="#tt">Tarrytown</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<!--END OF MENU-->
+					
+					<!--HOME-->
+					<div class="row">
+						<div class="col">
+							<div class="tab-content clearfix">
+								<div class="tab-pane active" id="home">
+									<div id="carouselIndicators" class="carousel slide" data-ride="carousel">
+										<div class="carousel-inner" role="listbox">
+											<div class="carousel-item active">
+												<img class="d-block img-fluid slide" src="images/benjamin-child-90768.jpg" alt="First slide">
+													<div class="carousel-caption d-none d-md-block">
+														<h1 class="display-3">Instructor Led Courses</h1>
+														<h3>Click on your office location to view a list of instructor-led course offerings.</h3>
+														<hr class="my-4">
+															<p class="lead">*Classes are restricted to permanent employees</p>
+															<p class="lead">
+																<a class="btn btn-primary btn-lg" href="https://regeneron.sumtotal.host/Core/dash/home" role="button">
+																	<i class="fa fa-arrow-circle-left fa-lg" aria-hidden="true"></i>
+																	Back to TalentHub
+																</a>
+															</p>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+										<!--END OF HOME -->
+										
+										<!--BASKING RIDGE-->
+										<div class="tab-pane paddingTop20" id="br">
+											<table id="bas" class="table table-striped .table-sm table-bordered dataTable"  width="100%">
+												<thead>
+													<tr class="bg-primary text-white">
+														<th>Course Name</th>
+														<th>Start Date</th>
+														<th>Start Time (EST)</th>
+														<th>End Time</th>
+														<th>Room</th>
+														<th>Activity ID</th>
+														<th>Campus</th>
+														<th></th>
+													</tr>
+												</thead>
+											</table>
+										</div>
+										<!--END OF BASKING RIDGE-->
+
+										<!--DUBLIN-->
+										<div class="tab-pane paddingTop20" id="du">
+											<table class="table table-striped .table-sm table-bordered dataTable"  width="100%" id="dub">
+												<thead>
+													<tr class="bg-primary text-white">
+														<th>Course Name</th>
+														<th>Start Date</th>
+														<th>Start Time (EST)</th>
+														<th>End Time</th>
+														<th>Room</th>
+														<th>Activity ID</th>
+														<th>Campus</th>
+														<th></th>
+													</tr>
+												</thead>
+											</table>
+										</div>
+										<!--END OF DUBLIN-->
+
+										<!--RAHEEN-->
+										<div class="tab-pane paddingTop20" id="rh">
+											<table class="table table-striped .table-sm table-bordered dataTable"  width="100%" id="rah">
+												<thead>
+													<tr class="bg-primary text-white">
+														<th>Course Name</th>
+														<th>Start Date</th>
+														<th>Start Time (EST)</th>
+														<th>End Time</th>
+														<th>Room</th>
+														<th>Activity ID</th>
+														<th>Campus</th>
+														<th></th>
+													</tr>
+												</thead>
+											</table>
+										</div>
+										<!--END OF RAHEEN-->
+										
+										<!--TARRYTOWN-->
+										<div class="tab-pane paddingTop20" id="tt">
+											<table class="table table-striped .table-sm table-bordered dataTable"  width="100%" id="tar">
+												<thead>
+													<tr class="bg-primary text-white">
+														<th>Course Name</th>
+														<th>Start Date</th>
+														<th>Start Time (EST)</th>
+														<th>End Time</th>
+														<th>Room</th>
+														<th>Activity ID</th>
+														<th>Campus</th>
+														<th></th>
+													</tr>
+												</thead>
+											</table>
+										</div>
+										<!--END OF TARRYTOWN-->
+										
+										<!--RENSSELAER-->
+										<div class="tab-pane paddingTop20" id="re">
+											<table class="table table-striped .table-sm table-bordered dataTable"  width="100%" id="ren">
+												<thead>
+													<tr class="bg-primary text-white">
+														<th>Course Name</th>
+														<th>Start Date</th>
+														<th>Start Time (EST)</th>
+														<th>End Time</th>
+														<th>Room</th>
+														<th>Activity ID</th>
+														<th>Campus</th>
+														<th></th>
+													</tr>
+												</thead>
+											</table>
+										</div>
+										<!--END OF RENSSELAER-->
+										
+									</div><!--END OF TAB CONTENT-->
+								</div>
+							</div>
+						</div><!--END OF CONTAINER-->
+						
+						<!--JQUERY-->
+						<script   src="https://code.jquery.com/jquery-3.2.1.min.js"   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous"></script>
+						<!--JQUERY UI-->
+						<script   src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"   integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="   crossorigin="anonymous"></script>
+						<!--BOOTSTRAP JS-->
+						<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+						<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+						<!--MOMENT JS-->
+						<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment-with-locales.min.js" integrity="sha256-/ioiJhI6NkoUDkSyBru7JZUGXGQhdml6amBC3ApTf5A=" crossorigin="anonymous"></script>
+						<!--DATA TABLES JS-->
+						<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.15/js/jquery.dataTables.min.js" integrity="sha256-j007R7R6ijEWPa1df7FeJ6AFbQeww0xgif2SJWZOhHw=" crossorigin="anonymous"></script>
+						<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.15/js/dataTables.bootstrap4.min.js" integrity="sha256-PahDJkda1lmviWgqffy4CcrECIFPJCWoa9EAqVx7Tf8=" crossorigin="anonymous"></script>
+						<script src="https://cdn.datatables.net/plug-ins/1.10.15/sorting/datetime-moment.js"></script>
+						<!--JQUERY TIMEPICKER JS-->
+						<script src="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.js"></script>
+						<!--CUSTOM JS-->
+						<script type ="text/javascript" src="formAdmin.js"></script>
+						
+					</body>
+				</html>

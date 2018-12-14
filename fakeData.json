@@ -1,0 +1,401 @@
+[{
+  "Course": "OneEyed Jacks",
+  "Start Date": "30Apr2019",
+  "Start Time": "11:20 AM",
+  "End Time": "1:22 PM",
+  "Room": "Asteraceae",
+  "Activity": "1",
+  "Campus": "Basking Ridge"
+}, {
+  "Course": "Little Fockers",
+  "Start Date": "24Jul2019",
+  "Start Time": "2:32 PM",
+  "End Time": "11:26 AM",
+  "Room": "Chenopodiaceae",
+  "Activity": "2",
+  "Campus": "Basking Ridge"
+}, {
+  "Course": "North and South, Book I",
+  "Start Date": "01Mar2019",
+  "Start Time": "1:11 PM",
+  "End Time": "3:38 PM",
+  "Room": "Rosaceae",
+  "Activity": "3",
+  "Campus": "Basking Ridge"
+}, {
+  "Course": "From the East (D'Est)",
+  "Start Date": "29Sep2016",
+  "Start Time": "11:30 AM",
+  "End Time": "1:51 PM",
+  "Room": "Urticaceae",
+  "Activity": "4",
+  "Campus": "Basking Ridge"
+}, {
+  "Course": "Solid Gold Cadillac, The",
+  "Start Date": "17Jul2019",
+  "Start Time": "9:19 AM",
+  "End Time": "11:35 AM",
+  "Room": "Cyperaceae",
+  "Activity": "5",
+  "Campus": "Basking Ridge"
+}, {
+  "Course": "StreetDance 3D",
+  "Start Date": "17Nov2016",
+  "Start Time": "12:16 PM",
+  "End Time": "4:36 PM",
+  "Room": "Rosaceae",
+  "Activity": "6",
+  "Campus": "Basking Ridge"
+}, {
+  "Course": "Boston's Finest",
+  "Start Date": "09Aug2019",
+  "Start Time": "8:04 AM",
+  "End Time": "9:10 AM",
+  "Room": "Rutaceae",
+  "Activity": "7",
+  "Campus": "Basking Ridge"
+}, {
+  "Course": "Golden Christmas 3, A",
+  "Start Date": "01Jun2019",
+  "Start Time": "12:44 PM",
+  "End Time": "9:52 AM",
+  "Room": "Asteraceae",
+  "Activity": "8",
+  "Campus": "Basking Ridge"
+}, {
+  "Course": "Last Summer in the Hamptons",
+  "Start Date": "30Oct2016",
+  "Start Time": "11:31 AM",
+  "End Time": "10:29 AM",
+  "Room": "Polemoniaceae",
+  "Activity": "9",
+  "Campus": "Basking Ridge"
+}, {
+  "Course": "While You Were Sleeping",
+  "Start Date": "02Mar2019",
+  "Start Time": "7:23 AM",
+  "End Time": "4:09 PM",
+  "Room": "Rubiaceae",
+  "Activity": "10",
+  "Campus": "Basking Ridge"
+}, {
+  "Course": "The Trip to Bountiful",
+  "Start Date": "24Dec2016",
+  "Start Time": "1:40 PM",
+  "End Time": "8:35 AM",
+  "Room": "Pottiaceae",
+  "Activity": "11",
+  "Campus": "Dublin"
+}, {
+  "Course": "Flight That Fought Back, The",
+  "Start Date": "01Feb2019",
+  "Start Time": "6:52 AM",
+  "End Time": "12:48 PM",
+  "Room": "Poaceae",
+  "Activity": "12",
+  "Campus": "Dublin"
+}, {
+  "Course": "Madam Satan",
+  "Start Date": "06Mar2019",
+  "Start Time": "11:43 AM",
+  "End Time": "3:47 PM",
+  "Room": "Polemoniaceae",
+  "Activity": "13",
+  "Campus": "Dublin"
+}, {
+  "Course": "Australian Atomic Confessions",
+  "Start Date": "08Jul2019",
+  "Start Time": "2:05 PM",
+  "End Time": "2:01 PM",
+  "Room": "Poaceae",
+  "Activity": "14",
+  "Campus": "Dublin"
+}, {
+  "Course": "First Man, The (Le Premier Homme)",
+  "Start Date": "10May2019",
+  "Start Time": "2:12 PM",
+  "End Time": "8:50 AM",
+  "Room": "Cactaceae",
+  "Activity": "15",
+  "Campus": "Dublin"
+}, {
+  "Course": "Toolbox Murders, The",
+  "Start Date": "22Jul2019",
+  "Start Time": "9:22 AM",
+  "End Time": "4:31 PM",
+  "Room": "Euphorbiaceae",
+  "Activity": "16",
+  "Campus": "Dublin"
+}, {
+  "Course": "Northeast",
+  "Start Date": "02Jun2019",
+  "Start Time": "10:25 AM",
+  "End Time": "8:21 AM",
+  "Room": "Asteraceae",
+  "Activity": "17",
+  "Campus": "Dublin"
+}, {
+  "Course": "Red 2",
+  "Start Date": "29Mar2019",
+  "Start Time": "7:16 AM",
+  "End Time": "10:55 AM",
+  "Room": "Polygonaceae",
+  "Activity": "18",
+  "Campus": "Dublin"
+}, {
+  "Course": "Ghoulies III: Ghoulies Go to College",
+  "Start Date": "04May2019",
+  "Start Time": "2:43 PM",
+  "End Time": "7:48 AM",
+  "Room": "Polygonaceae",
+  "Activity": "19",
+  "Campus": "Dublin"
+}, {
+  "Course": "Drained (O cheiro do Ralo)",
+  "Start Date": "05Sep2016",
+  "Start Time": "1:30 PM",
+  "End Time": "4:05 PM",
+  "Room": "Primulaceae",
+  "Activity": "20",
+  "Campus": "Dublin"
+}, {
+  "Course": "Devil",
+  "Start Date": "05May2019",
+  "Start Time": "11:21 AM",
+  "End Time": "2:25 PM",
+  "Room": "Fagaceae",
+  "Activity": "21",
+  "Campus": "Rensselaer"
+}, {
+  "Course": "Bright Lights",
+  "Start Date": "15Oct2016",
+  "Start Time": "11:08 AM",
+  "End Time": "10:01 AM",
+  "Room": "Verbenaceae",
+  "Activity": "22",
+  "Campus": "Rensselaer"
+}, {
+  "Course": "Three Musketeers, The",
+  "Start Date": "21Jan2019",
+  "Start Time": "2:23 PM",
+  "End Time": "9:47 AM",
+  "Room": "Celastraceae",
+  "Activity": "23",
+  "Campus": "Rensselaer"
+}, {
+  "Course": "Episode 3: Enjoy Poverty",
+  "Start Date": "25Oct2016",
+  "Start Time": "8:18 AM",
+  "End Time": "11:20 AM",
+  "Room": "Poaceae",
+  "Activity": "24",
+  "Campus": "Rensselaer"
+}, {
+  "Course": "Big Eyes",
+  "Start Date": "25Apr2019",
+  "Start Time": "6:50 AM",
+  "End Time": "7:12 AM",
+  "Room": "Gentianaceae",
+  "Activity": "25",
+  "Campus": "Rensselaer"
+}, {
+  "Course": "Blind Shaft (Mang jing)",
+  "Start Date": "05Jun2019",
+  "Start Time": "7:03 AM",
+  "End Time": "8:12 AM",
+  "Room": "Saxifragaceae",
+  "Activity": "26",
+  "Campus": "Rensselaer"
+}, {
+  "Course": "Inquisitor, The (a.k.a. Under Suspicion) (Garde à vue)",
+  "Start Date": "17Sep2016",
+  "Start Time": "6:53 AM",
+  "End Time": "9:16 AM",
+  "Room": "Liliaceae",
+  "Activity": "27",
+  "Campus": "Rensselaer"
+}, {
+  "Course": "Father of the Bride Part II",
+  "Start Date": "11Jan2019",
+  "Start Time": "12:51 PM",
+  "End Time": "4:03 PM",
+  "Room": "Hydrophyllaceae",
+  "Activity": "28",
+  "Campus": "Rensselaer"
+}, {
+  "Course": "Nightmares in Red White & Blue: The Evolution of the American Horror Film",
+  "Start Date": "10Aug2019",
+  "Start Time": "4:04 PM",
+  "End Time": "11:46 AM",
+  "Room": "Asteraceae",
+  "Activity": "29",
+  "Campus": "Rensselaer"
+}, {
+  "Course": "Gospel According to St. Matthew, The (Vangelo secondo Matteo, Il)",
+  "Start Date": "14Jul2019",
+  "Start Time": "11:01 AM",
+  "End Time": "11:44 AM",
+  "Room": "Cladoniaceae",
+  "Activity": "30",
+  "Campus": "Rensselaer"
+}, {
+  "Course": "Marseillaise, La",
+  "Start Date": "05Oct2016",
+  "Start Time": "11:24 AM",
+  "End Time": "12:18 PM",
+  "Room": "Solanaceae",
+  "Activity": "31",
+  "Campus": "Raheen"
+}, {
+  "Course": "Train of Life (Train de vie)",
+  "Start Date": "01Nov2016",
+  "Start Time": "12:04 PM",
+  "End Time": "12:29 PM",
+  "Room": "Cyperaceae",
+  "Activity": "32",
+  "Campus": "Raheen"
+}, {
+  "Course": "Roadie",
+  "Start Date": "17Feb2019",
+  "Start Time": "12:04 PM",
+  "End Time": "10:52 AM",
+  "Room": "Asteraceae",
+  "Activity": "33",
+  "Campus": "Raheen"
+}, {
+  "Course": "Beau Geste",
+  "Start Date": "23Nov2016",
+  "Start Time": "4:08 PM",
+  "End Time": "1:48 PM",
+  "Room": "Orchidaceae",
+  "Activity": "34",
+  "Campus": "Raheen"
+}, {
+  "Course": "You're a Big Boy Now",
+  "Start Date": "30Sep2016",
+  "Start Time": "3:58 PM",
+  "End Time": "12:06 PM",
+  "Room": "Rosaceae",
+  "Activity": "35",
+  "Campus": "Raheen"
+}, {
+  "Course": "WolfCop",
+  "Start Date": "04Feb2019",
+  "Start Time": "11:04 AM",
+  "End Time": "8:33 AM",
+  "Room": "Myrtaceae",
+  "Activity": "36",
+  "Campus": "Raheen"
+}, {
+  "Course": "Supermarket Woman (Sûpâ no onna)",
+  "Start Date": "20Jan2019",
+  "Start Time": "9:08 AM",
+  "End Time": "2:49 PM",
+  "Room": "Lamiaceae",
+  "Activity": "37",
+  "Campus": "Raheen"
+}, {
+  "Course": "Do Fish Do It? (Fickende Fische)",
+  "Start Date": "29Oct2016",
+  "Start Time": "9:26 AM",
+  "End Time": "4:35 PM",
+  "Room": "Polygonaceae",
+  "Activity": "38",
+  "Campus": "Raheen"
+}, {
+  "Course": "Blood & Donuts",
+  "Start Date": "11Dec2016",
+  "Start Time": "10:04 AM",
+  "End Time": "9:40 AM",
+  "Room": "Asclepiadaceae",
+  "Activity": "39",
+  "Campus": "Raheen"
+}, {
+  "Course": "Fraternity Vacation",
+  "Start Date": "06Nov2016",
+  "Start Time": "6:45 AM",
+  "End Time": "9:07 AM",
+  "Room": "Asteraceae",
+  "Activity": "40",
+  "Campus": "Raheen"
+}, {
+  "Course": "Abbott and Costello Go to Mars",
+  "Start Date": "22Aug2019",
+  "Start Time": "8:42 AM",
+  "End Time": "2:43 PM",
+  "Room": "Fabaceae",
+  "Activity": "41",
+  "Campus": "Tarrytown"
+}, {
+  "Course": "Staten Island",
+  "Start Date": "11Oct2016",
+  "Start Time": "11:16 AM",
+  "End Time": "2:04 PM",
+  "Room": "Dryopteridaceae",
+  "Activity": "42",
+  "Campus": "Tarrytown"
+}, {
+  "Course": "Windy Day (Tuulinen päivä)",
+  "Start Date": "15Aug2019",
+  "Start Time": "12:56 PM",
+  "End Time": "1:50 PM",
+  "Room": "Malvaceae",
+  "Activity": "43",
+  "Campus": "Tarrytown"
+}, {
+  "Course": "Reagan",
+  "Start Date": "11Aug2019",
+  "Start Time": "2:29 PM",
+  "End Time": "7:30 AM",
+  "Room": "Boraginaceae",
+  "Activity": "44",
+  "Campus": "Tarrytown"
+}, {
+  "Course": "He Died With a Felafel in His Hand",
+  "Start Date": "29Jul2019",
+  "Start Time": "7:49 AM",
+  "End Time": "11:08 AM",
+  "Room": "Fabaceae",
+  "Activity": "45",
+  "Campus": "Tarrytown"
+}, {
+  "Course": "Spirit of St. Louis, The",
+  "Start Date": "08Mar2019",
+  "Start Time": "12:33 PM",
+  "End Time": "9:50 AM",
+  "Room": "Gesneriaceae",
+  "Activity": "46",
+  "Campus": "Tarrytown"
+}, {
+  "Course": "Guard Post, The (G.P. 506)",
+  "Start Date": "01Jan2019",
+  "Start Time": "6:57 AM",
+  "End Time": "9:52 AM",
+  "Room": "Scrophulariaceae",
+  "Activity": "47",
+  "Campus": "Tarrytown"
+}, {
+  "Course": "I as in Icarus (I... comme Icare)",
+  "Start Date": "22Aug2019",
+  "Start Time": "4:10 PM",
+  "End Time": "9:52 AM",
+  "Room": "Polygonaceae",
+  "Activity": "48",
+  "Campus": "Tarrytown"
+}, {
+  "Course": "Wave, The (Welle, Die)",
+  "Start Date": "28Apr2019",
+  "Start Time": "3:45 PM",
+  "End Time": "6:13 AM",
+  "Room": "Poaceae",
+  "Activity": "49",
+  "Campus": "Tarrytown"
+}, {
+  "Course": "Pokémon the Movie 2000",
+  "Start Date": "23Jul2019",
+  "Start Time": "10:17 AM",
+  "End Time": "1:15 PM",
+  "Room": "Euphorbiaceae",
+  "Activity": "50",
+  "Campus": "Tarrytown"
+}]

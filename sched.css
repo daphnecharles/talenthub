@@ -1,0 +1,116 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.nav-tabs > li > a {
+  -webkit-border-radius: 0 !important;
+     -moz-border-radius: 0 !important;
+          border-radius: 0 !important;
+}
+
+.rubine {
+	background-color: #E3EEFF;
+	color: white !important;
+	margin-bottom:0px;
+} 
+
+th.elearn {
+    width: 8.5em; 
+    word-wrap: break-word;
+	text-align:center;
+}
+
+.nav a {
+	color:#065BAA;
+}
+
+.nav a:hover {
+	color:#fff;
+	background-color:#D60057;
+}
+
+a.nav-link.active {
+	font-weight:bold;
+}
+
+.monthTitle {
+	font-size:18px;
+	font-weight:500;
+	font-stretch:extra-expanded;
+}
+
+.bgColor {
+	background-color: #115BA8;
+}
+
+.padding20 {
+	padding:20px;
+}
+
+#formRow {
+	background-color: white;
+}
+
+#form {
+	padding: 50px;
+}
+
+#submit {
+	background-color: #d61b5e;
+	border-color: #d61b5e;
+}
+
+.registerButtons {
+	background-color: #d61b5e;
+	border-color: #d61b5e;
+}
+.textBold {
+	font-weight: bold;
+}
+
+.wordWrap {
+	word-wrap: break-word;
+}
+
+.nav-pills {
+	padding: 10px;
+}
+
+
+.paddingTop20 {
+	padding-top:20px;
+}
+#logo {
+	background-color: #115BA8;
+	padding:10px;
+}
+
+#logoImage {
+	height: 100% !important;
+}
+
+#jumbotron {
+	background-color:aliceblue;
+}
+
+.slide {
+	height: 600px;
+	width: 100%;
+}
+
+.carousel-caption {
+	top: 15%;
+    bottom: auto;
+	background-color: grey;
+	background: rgb(54, 25, 25); /* Fall-back for browsers that don't
+                                 support rgba */
+    background: rgba(54, 25, 25, .5);
+}
+
+.col {	
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+label {
+	font-weight: bold;
+}
